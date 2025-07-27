@@ -1,0 +1,13 @@
+List_Alerts=1,1600,100
+
+Window_APP=1,1500,630,400,300
+Window_APP_Scale=50
+
+Color_RawVideo=255,255,0
+
+RawVideo_Brightness=100
+RawVideo_Afterglow=100
+RawVideo_MaxHistory=0
+
+System_CMAC_HighSpeed=30
+System_CMAC_HighSpeed_Info=20

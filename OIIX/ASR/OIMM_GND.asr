@@ -1,0 +1,9 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+
+WINDOWAREA:36.224091:59.630409:36.235674:59.656475
+
+PLUGIN:Ground Radar plugin:AirportElevation:3266
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:OIMM

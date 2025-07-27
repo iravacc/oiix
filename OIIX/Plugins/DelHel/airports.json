@@ -1,0 +1,215 @@
+{
+    "OIIE": {
+        "elevation": 3305,
+        "sids": {
+            "EGVEL": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "IKA1A×EGVEL"
+                    },
+                    "29R": {
+                        "dep": "IKA1A×EGVEL"
+                    }
+                }
+            },
+            "PAROT": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "IKA1A×PAROT"
+                    },
+                    "29R": {
+                        "dep": "IKA1A×PAROT"
+                    }
+                }
+            },
+            "PAXID": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "IKA1A×PAXID"
+                    },
+                    "29R": {
+                        "dep": "IKA1A×PAXID"
+                    }
+                }
+            },
+            "OBRIX": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "IKA1A×OBRIX"
+                    },
+                    "29R": {
+                        "dep": "IKA1A×OBRIX"
+                    }
+                }
+            },
+            "DHN": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "IKA1A×DHN"
+                    },
+                    "29R": {
+                        "dep": "IKA1A×DHN"
+                    }
+                }
+            },
+            "PAVET": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "IKA1A×PAVET"
+                    },
+                    "29R": {
+                        "dep": "IKA1A×PAVET"
+                    }
+                }
+            }
+        }
+    },
+    "OIII": {
+        "elevation": 3956,
+        "sids": {
+            "EGVEL": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "MEHD2A×EGVEL"
+                    },
+                    "29R": {
+                        "dep": "MEHD2A×EGVEL"
+                    }
+                }
+            },
+            "PAROT": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "MEHD2A×PAROT"
+                    },
+                    "29R": {
+                        "dep": "MEHD2A×PAROT"
+                    }
+                }
+            },
+            "PAXID": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "MEHD2A×PAXID"
+                    },
+                    "29R": {
+                        "dep": "MEHD1B×PAXID"
+                    }
+                }
+            },
+            "OBRIX": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "MEHD2A×OBRIX"
+                    },
+                    "29R": {
+                        "dep": "MEHD2A×OBRIX"
+                    }
+                }
+            },
+            "DHN": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "MEHD2A×DHN"
+                    },
+                    "29R": {
+                        "dep": "MEHD2A×DHN"
+                    }
+                }
+            },
+            "PAVET": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "MEHD2A×PAVET"
+                    },
+                    "29R": {
+                        "dep": "MEHD2A×PAVET"
+                    }
+                }
+            },
+            "ELUSI": {
+                "cfl": 7000,
+                "rwys": {
+                    "29L": {
+                        "dep": "MEHD2A×ELUSI"
+                    },
+                    "29R": {
+                        "dep": "MEHD2A×ELUSI"
+                    }
+                }
+            }
+        }
+    },
+    "OIMM": {
+        "elevation": 3266,
+        "sids": {
+            "ORDOB": {
+                "cfl": 8000,
+                "rwys": {
+                    "31R": {
+                        "dep": "ORDOB1B"
+                    },
+                    "13L": {
+                        "dep": "ORDOB1C"
+                    }
+                }
+            },
+            "NOTSO": {
+                "cfl": 8000,
+                "rwys": {
+                    "31R": {
+                        "dep": "NOTSO1A"
+                    },
+                    "13L": {
+                        "dep": "NOTSO1D"
+                    }
+                }
+            },
+            "RAMIL": {
+                "cfl": 8000,
+                "rwys": {
+                    "31R": {
+                        "dep": "RAMIL1A"
+                    },
+                    "13L": {
+                        "dep": "NOTSO1E"
+                    }
+                }
+            },
+            "PAMTU": {
+                "cfl": 8000,
+                "rwys": {
+                    "31R": {
+                        "dep": "PAMTU1B"
+                    },
+                    "13L": {
+                        "dep": "PAMTU1D"
+                    }
+                }
+            },
+            "BOTEK": {
+                "cfl": 8000,
+                "rwys": {
+                    "31R": {
+                        "dep": "BOTEK1A"
+                    },
+                    "13L": {
+                        "dep": "BOTEK1E"
+                    }
+                }
+            }
+        }
+    }
+}

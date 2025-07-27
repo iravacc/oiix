@@ -1,0 +1,9 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+
+WINDOWAREA:38.122190:46.230405:38.133773:46.255288
+
+PLUGIN:Ground Radar plugin:TowerMode:OISS
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:AirportElevation:4449

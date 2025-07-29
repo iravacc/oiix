@@ -1,9 +1,22 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-
-WINDOWAREA:35.407204:51.136550:35.421682:51.167652
-
-PLUGIN:Ground Radar plugin:TowerMode:OIIE
-PLUGIN:Ground Radar plugin:AirportRadius:2.5
+SECTORFILE:
+SECTORTITLE:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:1
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:
+WINDOWAREA:35.385678:51.092321:35.440912:51.216614
 PLUGIN:Ground Radar plugin:AirportElevation:3305
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:TowerMode:OIIE

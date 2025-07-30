@@ -6,7 +6,7 @@ Window_APP_Extensions=10
 
 Color_Departure=255,255,128
 Color_Arrival=255,128,128
-Color_RawVideo=255,0,0
+Color_RawVideo=255,255,0
 Color_SelectedLabelFill_Gnd=0,0,0
 Color_SelectedLabelFill_App=0,0,0
 

@@ -20,5 +20,3 @@ System_CMAC_HighSpeed_Info=25
 GroundLabel_FontSize=12
 GroundLabel_Transparency_Bd=128
 GroundLabel_Transparency_Bg=128
-
-Label=GND:ALL:1:CALLSIGN,0,0,0

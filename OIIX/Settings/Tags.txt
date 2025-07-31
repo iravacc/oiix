@@ -1,5 +1,5 @@
 TAGS
-TAGFAMILY:TopSky_B
+TAGFAMILY:TopSky_B [IranVACC]
 TAGTYPE:0:13:1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:5::0:0:0:0:TopSky plugin:0:1:::1
@@ -301,11 +301,7 @@ TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:114::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:252::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:256::0:1:0:0:TopSky plugin:0:1:::1
-TAGITEM:253::0:1:0:0:TopSky plugin:0:1:::1
-TAGITEM:254::0:1:0:0:TopSky plugin:0:1:::1
-TAGITEM:255::0:1:0:0:TopSky plugin:0:1:::1
 TAGTYPE:4:13:1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:5::0:0:0:0:TopSky plugin:0:1:::1

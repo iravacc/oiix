@@ -1,11 +1,1 @@
 Setup_COOPANS=1
-
-Color_Assumed=255,255,0
-Color_Concerned=255,255,50
-Color_Coordination=100,255,255
-Color_Informed1=255,100,255
-Color_Informed2=255,150,50
-Color_Informed3=150,255,50
-Color_Redundant=255,50,150
-Color_Unconcerned=150,50,255
-Color_VFR=50,255,150

@@ -1,5 +1,3 @@
 Setup_COOPANS=1
 
 Color_Assumed=255,255,0
-
-RwyAppLines_Auto=2

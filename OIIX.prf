@@ -53,6 +53,7 @@ Plugins	Plugin3	\OIIX\Plugins\VCH\VCH.dll
 Plugins	Plugin4	\OIIX\Plugins\Discord\DiscordEuroscope.dll
 Plugins	Plugin5	\OIIX\Plugins\ESTimerApp\ESTimerApp.dll
 Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin2Display1	Ground Radar display

@@ -1,8 +1,39 @@
-DisplayTypeName:Ground Radar display
-DisplayTypeNeedRadarContent:0
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+ARTCC high boundary:OISS Shiraz TMA:
+Fixes:ASNIT:name
+Fixes:ASNIT:symbol
+Fixes:DASDO:name
+Fixes:DASDO:symbol
+Fixes:IVERA:name
+Fixes:IVERA:symbol
+Fixes:KASOL:name
+Fixes:KASOL:symbol
+Fixes:KATUR:name
+Fixes:KATUR:symbol
+Fixes:KAVIL:name
+Fixes:KAVIL:symbol
+Fixes:KAVOT:name
+Fixes:KAVOT:symbol
+Fixes:KINOT:name
+Fixes:KINOT:symbol
+Fixes:KISED:name
+Fixes:KISED:symbol
+Fixes:KUGVU:name
+Fixes:KUGVU:symbol
+Fixes:KUPTO:name
+Fixes:KUPTO:symbol
+Fixes:LAGSA:name
+Fixes:LAGSA:symbol
+Fixes:NALBI:name
+Fixes:NALBI:symbol
+Fixes:TAGTA:name
+Fixes:TAGTA:symbol
+Fixes:VAVAS:name
+Fixes:VAVAS:symbol
 Runways:OISS 11L-29R:extended centerline 1
 Runways:OISS 11L-29R:extended centerline 1 left base
 Runways:OISS 11L-29R:extended centerline 1 left ticks
@@ -42,12 +73,8 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:335.00000
-TAGFAMILY:
-WINDOWAREA:29.514964:52.548301:29.559148:52.647729
-PLUGIN:Ground Radar plugin:AirportElevation:4917
-PLUGIN:Ground Radar plugin:AirportRadius:2.5
-PLUGIN:Ground Radar plugin:TowerMode:OISS
-PLUGIN:TopSky plugin:NoDraw:1
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:28.005122:49.222870:31.070879:56.121755
 PLUGIN:Timer Plugin:TimerTopLeftX:14
 PLUGIN:Timer Plugin:TimerTopLeftY:875

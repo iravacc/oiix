@@ -1,8 +1,35 @@
-DisplayTypeName:Ground Radar display
-DisplayTypeNeedRadarContent:0
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+ARTCC high boundary:OIMM Mashhad TMA:
+Fixes:ALMUX:name
+Fixes:ALMUX:symbol
+Fixes:BOTEK:name
+Fixes:BOTEK:symbol
+Fixes:EMESA:name
+Fixes:EMESA:symbol
+Fixes:LOSAN:name
+Fixes:LOSAN:symbol
+Fixes:METKI:name
+Fixes:METKI:symbol
+Fixes:MIDMO:name
+Fixes:MIDMO:symbol
+Fixes:NAZAR:name
+Fixes:NAZAR:symbol
+Fixes:NOTSO:name
+Fixes:NOTSO:symbol
+Fixes:ORDOB:name
+Fixes:ORDOB:symbol
+Fixes:RAMIL:name
+Fixes:RAMIL:symbol
+Fixes:RIBUX:name
+Fixes:RIBUX:symbol
+Fixes:SOGES:name
+Fixes:SOGES:symbol
+Fixes:TANBU:name
+Fixes:TANBU:symbol
 Runways:OIMM 13L-31R:extended centerline 1
 Runways:OIMM 13L-31R:extended centerline 1 left base
 Runways:OIMM 13L-31R:extended centerline 1 left ticks
@@ -42,12 +69,8 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:318.00000
-TAGFAMILY:
-WINDOWAREA:36.208959:59.600733:36.253149:59.700174
-PLUGIN:Ground Radar plugin:AirportElevation:3266
-PLUGIN:Ground Radar plugin:AirportRadius:2.5
-PLUGIN:Ground Radar plugin:TowerMode:OIMM
-PLUGIN:TopSky plugin:NoDraw:1
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:34.902293:56.757694:37.506459:62.617861
 PLUGIN:Timer Plugin:TimerTopLeftX:14
 PLUGIN:Timer Plugin:TimerTopLeftY:875

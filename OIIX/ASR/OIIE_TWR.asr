@@ -3,6 +3,34 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+Runways:OIIE 11L-29R:extended centerline 1
+Runways:OIIE 11L-29R:extended centerline 1 left base
+Runways:OIIE 11L-29R:extended centerline 1 left ticks
+Runways:OIIE 11L-29R:extended centerline 1 left vectoring
+Runways:OIIE 11L-29R:extended centerline 1 right base
+Runways:OIIE 11L-29R:extended centerline 1 right ticks
+Runways:OIIE 11L-29R:extended centerline 1 right vectoring
+Runways:OIIE 11L-29R:extended centerline 2
+Runways:OIIE 11L-29R:extended centerline 2 left base
+Runways:OIIE 11L-29R:extended centerline 2 left ticks
+Runways:OIIE 11L-29R:extended centerline 2 left vectoring
+Runways:OIIE 11L-29R:extended centerline 2 right base
+Runways:OIIE 11L-29R:extended centerline 2 right ticks
+Runways:OIIE 11L-29R:extended centerline 2 right vectoring
+Runways:OIIE 11R-29L:extended centerline 1
+Runways:OIIE 11R-29L:extended centerline 1 left base
+Runways:OIIE 11R-29L:extended centerline 1 left ticks
+Runways:OIIE 11R-29L:extended centerline 1 left vectoring
+Runways:OIIE 11R-29L:extended centerline 1 right base
+Runways:OIIE 11R-29L:extended centerline 1 right ticks
+Runways:OIIE 11R-29L:extended centerline 1 right vectoring
+Runways:OIIE 11R-29L:extended centerline 2
+Runways:OIIE 11R-29L:extended centerline 2 left base
+Runways:OIIE 11R-29L:extended centerline 2 left ticks
+Runways:OIIE 11R-29L:extended centerline 2 left vectoring
+Runways:OIIE 11R-29L:extended centerline 2 right base
+Runways:OIIE 11R-29L:extended centerline 2 right ticks
+Runways:OIIE 11R-29L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -21,3 +49,5 @@ PLUGIN:Ground Radar plugin:AirportElevation:3305
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:TowerMode:OIIE
 PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:Timer Plugin:TimerTopLeftX:14
+PLUGIN:Timer Plugin:TimerTopLeftY:875

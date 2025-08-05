@@ -3,6 +3,8 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+ARTCC boundary:OIIX Tehran FIR:
+Regions:OIIX Water & Coastline Da:polygon
 Runways:OIAA 14R-32L:extended centerline 1
 Runways:OIAA 14R-32L:extended centerline 1 left base
 Runways:OIAA 14R-32L:extended centerline 1 left ticks
@@ -1403,3 +1405,5 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_Tehran_ACC
 WINDOWAREA:22.905607:32.286336:42.046525:75.359225
+PLUGIN:Timer Plugin:TimerTopLeftX:16
+PLUGIN:Timer Plugin:TimerTopLeftY:878

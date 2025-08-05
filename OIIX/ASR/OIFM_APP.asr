@@ -1,8 +1,29 @@
-DisplayTypeName:Ground Radar display
-DisplayTypeNeedRadarContent:0
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+ARTCC high boundary:OIFM Isfahan TMA:
+Fixes:BOMID:name
+Fixes:BOMID:symbol
+Fixes:DAPOG:name
+Fixes:DAPOG:symbol
+Fixes:GADLU:name
+Fixes:GADLU:symbol
+Fixes:GESIP:name
+Fixes:GESIP:symbol
+Fixes:LABOT:name
+Fixes:LABOT:symbol
+Fixes:LADAL:name
+Fixes:LADAL:symbol
+Fixes:LOXAK:name
+Fixes:LOXAK:symbol
+Fixes:MUXIS:name
+Fixes:MUXIS:symbol
+Fixes:PEKAM:name
+Fixes:PEKAM:symbol
+Fixes:RANDU:name
+Fixes:RANDU:symbol
 Runways:OIFM 07L-25R:extended centerline 1
 Runways:OIFM 07L-25R:extended centerline 1 left base
 Runways:OIFM 07L-25R:extended centerline 1 left ticks
@@ -42,12 +63,8 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:12.00000
-TAGFAMILY:
-WINDOWAREA:32.727744:51.807299:32.782973:51.931581
-PLUGIN:Ground Radar plugin:AirportElevation:5058
-PLUGIN:Ground Radar plugin:AirportRadius:2.5
-PLUGIN:Ground Radar plugin:TowerMode:OIFM
-PLUGIN:TopSky plugin:NoDraw:1
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:31.446074:48.967553:34.050240:54.827721
 PLUGIN:Timer Plugin:TimerTopLeftX:14
 PLUGIN:Timer Plugin:TimerTopLeftY:875

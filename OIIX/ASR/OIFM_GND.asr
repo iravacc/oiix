@@ -21,3 +21,5 @@ PLUGIN:Ground Radar plugin:AirportElevation:5058
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:OIFM
 PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:Timer Plugin:TimerTopLeftX:14
+PLUGIN:Timer Plugin:TimerTopLeftY:875

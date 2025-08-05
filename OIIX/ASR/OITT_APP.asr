@@ -1,8 +1,27 @@
-DisplayTypeName:Ground Radar display
-DisplayTypeNeedRadarContent:0
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+ARTCC high boundary:OITT Tabriz TMA:
+Fixes:BORES:symbol
+Fixes:BORES:name
+Fixes:DASDA:symbol
+Fixes:DASDA:name
+Fixes:LAKLI:symbol
+Fixes:LAKLI:name
+Fixes:PAPOK:symbol
+Fixes:PAPOK:name
+Fixes:RABDI:symbol
+Fixes:RABDI:name
+Fixes:RAGIN:symbol
+Fixes:RAGIN:name
+Fixes:RAKED:symbol
+Fixes:RAKED:name
+Fixes:RUDAD:symbol
+Fixes:RUDAD:name
+Fixes:SISIL:symbol
+Fixes:SISIL:name
 Runways:OITT 12L-30R:extended centerline 1
 Runways:OITT 12L-30R:extended centerline 1 left base
 Runways:OITT 12L-30R:extended centerline 1 left ticks
@@ -42,12 +61,8 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:323.00000
-TAGFAMILY:
-WINDOWAREA:38.106439:46.194455:38.150628:46.293895
-PLUGIN:Ground Radar plugin:AirportElevation:4449
-PLUGIN:Ground Radar plugin:AirportRadius:2.5
-PLUGIN:Ground Radar plugin:TowerMode:OISS
-PLUGIN:TopSky plugin:NoDraw:1
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Tehran_APP
+WINDOWAREA:37.156791:44.137593:39.118875:48.552879
 PLUGIN:Timer Plugin:TimerTopLeftX:14
 PLUGIN:Timer Plugin:TimerTopLeftY:875

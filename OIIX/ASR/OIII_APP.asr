@@ -1,0 +1,120 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:OIIX.sct
+SECTORTITLE:OIIX.sct
+ARTCC high boundary:OIII Mehrabad TMA:
+Fixes:BOXAM:name
+Fixes:BOXAM:symbol
+Fixes:DEMBA:name
+Fixes:DEMBA:symbol
+Fixes:EGTOS:name
+Fixes:EGTOS:symbol
+Fixes:EGVEL:name
+Fixes:EGVEL:symbol
+Fixes:ELUSI:name
+Fixes:ELUSI:symbol
+Fixes:ENASU:name
+Fixes:ENASU:symbol
+Fixes:GOPKA:name
+Fixes:GOPKA:symbol
+Fixes:MIVAK:name
+Fixes:MIVAK:symbol
+Fixes:MUXOR:name
+Fixes:MUXOR:symbol
+Fixes:NABAX:name
+Fixes:NABAX:symbol
+Fixes:NAGMO:name
+Fixes:NAGMO:symbol
+Fixes:OBRIX:name
+Fixes:OBRIX:symbol
+Fixes:PAROT:name
+Fixes:PAROT:symbol
+Fixes:PAVET:name
+Fixes:PAVET:symbol
+Fixes:PAXID:name
+Fixes:PAXID:symbol
+Fixes:RADAL:name
+Fixes:RADAL:symbol
+NDBs:KAZ:name
+NDBs:KAZ:symbol
+NDBs:VR:name
+NDBs:VR:symbol
+Runways:OIIE 11L-29R:extended centerline 1
+Runways:OIIE 11L-29R:extended centerline 1 left base
+Runways:OIIE 11L-29R:extended centerline 1 left ticks
+Runways:OIIE 11L-29R:extended centerline 1 left vectoring
+Runways:OIIE 11L-29R:extended centerline 1 right base
+Runways:OIIE 11L-29R:extended centerline 1 right ticks
+Runways:OIIE 11L-29R:extended centerline 1 right vectoring
+Runways:OIIE 11L-29R:extended centerline 2
+Runways:OIIE 11L-29R:extended centerline 2 left base
+Runways:OIIE 11L-29R:extended centerline 2 left ticks
+Runways:OIIE 11L-29R:extended centerline 2 left vectoring
+Runways:OIIE 11L-29R:extended centerline 2 right base
+Runways:OIIE 11L-29R:extended centerline 2 right ticks
+Runways:OIIE 11L-29R:extended centerline 2 right vectoring
+Runways:OIIE 11R-29L:extended centerline 1
+Runways:OIIE 11R-29L:extended centerline 1 left base
+Runways:OIIE 11R-29L:extended centerline 1 left ticks
+Runways:OIIE 11R-29L:extended centerline 1 left vectoring
+Runways:OIIE 11R-29L:extended centerline 1 right base
+Runways:OIIE 11R-29L:extended centerline 1 right ticks
+Runways:OIIE 11R-29L:extended centerline 1 right vectoring
+Runways:OIIE 11R-29L:extended centerline 2
+Runways:OIIE 11R-29L:extended centerline 2 left base
+Runways:OIIE 11R-29L:extended centerline 2 left ticks
+Runways:OIIE 11R-29L:extended centerline 2 left vectoring
+Runways:OIIE 11R-29L:extended centerline 2 right base
+Runways:OIIE 11R-29L:extended centerline 2 right ticks
+Runways:OIIE 11R-29L:extended centerline 2 right vectoring
+Runways:OIII 11L-29R:extended centerline 1
+Runways:OIII 11L-29R:extended centerline 1 left base
+Runways:OIII 11L-29R:extended centerline 1 left ticks
+Runways:OIII 11L-29R:extended centerline 1 left vectoring
+Runways:OIII 11L-29R:extended centerline 1 right base
+Runways:OIII 11L-29R:extended centerline 1 right ticks
+Runways:OIII 11L-29R:extended centerline 1 right vectoring
+Runways:OIII 11L-29R:extended centerline 2
+Runways:OIII 11L-29R:extended centerline 2 left base
+Runways:OIII 11L-29R:extended centerline 2 left ticks
+Runways:OIII 11L-29R:extended centerline 2 left vectoring
+Runways:OIII 11L-29R:extended centerline 2 right base
+Runways:OIII 11L-29R:extended centerline 2 right ticks
+Runways:OIII 11L-29R:extended centerline 2 right vectoring
+Runways:OIII 11R-29L:extended centerline 1
+Runways:OIII 11R-29L:extended centerline 1 left base
+Runways:OIII 11R-29L:extended centerline 1 left ticks
+Runways:OIII 11R-29L:extended centerline 1 left vectoring
+Runways:OIII 11R-29L:extended centerline 1 right base
+Runways:OIII 11R-29L:extended centerline 1 right ticks
+Runways:OIII 11R-29L:extended centerline 1 right vectoring
+Runways:OIII 11R-29L:extended centerline 2
+Runways:OIII 11R-29L:extended centerline 2 left base
+Runways:OIII 11R-29L:extended centerline 2 left ticks
+Runways:OIII 11R-29L:extended centerline 2 left vectoring
+Runways:OIII 11R-29L:extended centerline 2 right base
+Runways:OIII 11R-29L:extended centerline 2 right ticks
+Runways:OIII 11R-29L:extended centerline 2 right vectoring
+VORs:DHN:name
+VORs:DHN:symbol
+VORs:RUS:name
+VORs:RUS:symbol
+VORs:SAV:name
+VORs:SAV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:1
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Tehran_APP
+WINDOWAREA:34.147996:48.397034:36.717046:54.178178
+PLUGIN:Timer Plugin:TimerTopLeftX:14
+PLUGIN:Timer Plugin:TimerTopLeftY:875

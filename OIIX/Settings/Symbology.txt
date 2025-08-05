@@ -7,18 +7,18 @@ Low airways:name:3355443:3.5:0:0:8
 High airways:line:3355443:3.5:0:0:7
 High airways:name:3355443:3.5:0:0:8
 Fixes:symbol:11184810:1.0:0:0:7
-Fixes:name:11184810:3.5:0:0:1
+Fixes:name:11184810:3.5:0:0:8
 Sids:line:6579300:3.0:1:0:7
 Stars:line:6579300:3.0:1:0:7
-ARTCC high boundary:line:6710886:3.0:0:2:7
+ARTCC high boundary:line:6710886:3.0:2:1:7
 ARTCC boundary:line:6710886:3.0:0:0:7
 ARTCC low boundary:line:6710886:3.0:1:0:7
-Geo:line:16777215:3.0:0:0:7
+Geo:line:7829367:3.0:0:0:7
 VORs:symbol:11184810:1.0:0:0:7
-VORs:name:11184810:3.5:0:0:14
+VORs:name:11184810:3.5:0:0:6
 VORs:frequency:11184810:3.5:0:0:2
 NDBs:symbol:11184810:1.0:0:0:7
-NDBs:name:11184810:3.5:0:0:12
+NDBs:name:11184810:3.5:0:0:6
 NDBs:frequency:11184810:3.5:0:0:0
 Runways:centerline:8421504:3.5:0:0:7
 Runways:extended centerline:16777215:3.5:0:0:7

@@ -53,6 +53,8 @@ SCTFILEDATA:GEO\OIIX GroundLayout Non-Major Airports
 ZOOM:500
 COLOR:AirportGroundLabels
 FONTSIZE:=:10
+SCTFILEDATA:FREETEXT\OIIE GroundLayout Ika
+SCTFILEDATA:FREETEXT\OIII GroundLayout Mehrabad
 SCTFILEDATA:FREETEXT\OIIX All-In-One Ground Freetext
 
 MAP:Airport Runways

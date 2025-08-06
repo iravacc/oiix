@@ -2809,17 +2809,17 @@ COLOR:GroundLabels
 FONTSIZE:=:10
 SCTFILEDATA:FREETEXT\OITT GroundLayout Tabriz
 
-MAP:OIBK GroundLayout Kish
+MAP:OIBK GroundLayout Kish Island
 FOLDER:Airport Ground Layouts
 ACTIVE:1
 ZOOM:25
-SCTFILEDATA:REGIONS\OIBK GroundLayout Kish
+SCTFILEDATA:REGIONS\OIBK GroundLayout Kish Island
 ZOOM:100
-SCTFILEDATA:GEO\OIBK GroundLayout Kish
+SCTFILEDATA:GEO\OIBK GroundLayout Kish Island
 ZOOM:500
 COLOR:GroundLabels
 FONTSIZE:=:10
-SCTFILEDATA:FREETEXT\OIBK GroundLayout Kish
+SCTFILEDATA:FREETEXT\OIBK GroundLayout Kish Island
 
 MAP:OIIX GroundLayout Non-Major Airports
 FOLDER:Airport Ground Layouts

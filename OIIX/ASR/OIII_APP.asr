@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:OIIX.sct
-SECTORTITLE:OIIX.sct
+SECTORFILE:
+SECTORTITLE:
 ARTCC high boundary:OIII Mehrabad TMA:
 Fixes:BOXAM:name
 Fixes:BOXAM:symbol

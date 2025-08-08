@@ -4,3 +4,4 @@ SectorFileProviderDescriptor.txt
 OIIX.rwy
 euroscope_sector_providers.txt
 ipaddr.txt
+*.log

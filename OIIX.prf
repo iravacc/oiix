@@ -52,6 +52,8 @@ Plugins	Plugin2	\OIIX\Plugins\RDF\RDFPlugin.dll
 Plugins	Plugin3	\OIIX\Plugins\ESTimerApp\ESTimerApp.dll
 Plugins	Plugin4	\OIIX\Plugins\VCH\VCH.dll
 Plugins	Plugin5	\OIIX\Plugins\Discord\DiscordEuroscope.dll
+Plugins	Plugin6	\OIIX\Plugins\DelHel\DelHel.dll
+Plugins	Plugin7	\OIIX\Plugins\RouteChecker\RouteChecker.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin1Display0	Ground Radar display
@@ -59,6 +61,12 @@ Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin2Display1	Ground Radar display
 Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	Ground Radar display
+Plugins	Plugin6Display0	DelHel
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin6Display2	Standard ES radar screen
+Plugins	Plugin7Display0	DelHel
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin7Display2	Ground Radar display
 ASRFastKeys	1	\OIIX\ASR\Main.asr
 ASRFastKeys	2	\OIIX\ASR\OIII_GND.asr
 ASRFastKeys	3	\OIIX\ASR\OIIE_GND.asr

@@ -1,164 +1,164 @@
 PROFILE
 PROFILE:TEH_CTR:500:6
-ATIS2:Tehran Radar
-ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS2:Tehran Radar - CPDLC LOGON FL300+ [OIIX]
+ATIS3:Covering the entire Tehran FIR when local ATC offline
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_N_CTR:240:6
-ATIS2:Tehran Radar North
-ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS2:Tehran Radar North - CPDLC LOGON FL300+ [TEHN]
+ATIS3:Covering the entire Tehran FIR north when local ATC offline
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_S_CTR:240:6
-ATIS2:Tehran Radar South
-ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS2:Tehran Radar South - CPDLC LOGON FL300+ [TEHS]
+ATIS3:Covering the entire Tehran FIR east when local ATC offline
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_W_CTR:300:6
-ATIS2:Tehran Radar West
-ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS2:Tehran Radar West - CPDLC LOGON FL300+ [TEHW]
+ATIS3:Covering the entire Tehran FIR west when local ATC offline
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_E_CTR:300:6
-ATIS2:Tehran Radar East
-ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS2:Tehran Radar East - CPDLC LOGON FL300+ [TEHE]
+ATIS3:Covering the entire Tehran FIR east when local ATC offline
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_1_CTR:150:6
 ATIS2:Tehran Radar Sec 1
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_1W_CTR:150:6
 ATIS2:Tehran Radar Sec 1 West
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_1N_CTR:150:6
 ATIS2:Tehran Radar Sec 1 North
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_1E_CTR:150:6
 ATIS2:Tehran Radar Sec 1 East
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_2_CTR:150:6
 ATIS2:Tehran Radar Sec 2
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_2W_CTR:150:6
 ATIS2:Tehran Radar Sec 2 West
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_2E_CTR:165:6
 ATIS2:Tehran Radar Sec 2 East
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_3_CTR:164:6
 ATIS2:Tehran Radar Sec 3
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_3N_CTR:164:6
 ATIS2:Tehran Radar Sec 3 North
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_3S_CTR:164:6
 ATIS2:Tehran Radar Sec 3 South
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_4_CTR:170:6
 ATIS2:Tehran Radar Sec 4
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_4E_CTR:170:6
 ATIS2:Tehran Radar Sec 4 East
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_4S_CTR:110:6
 ATIS2:Tehran Radar Sec 4 South
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_4W_CTR:110:6
 ATIS2:Tehran Radar Sec 4 West
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_5_CTR:170:6
 ATIS2:Tehran Radar Sec 5
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_5E_CTR:170:6
 ATIS2:Tehran Radar Sec 5 East
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_5W_CTR:130:6
 ATIS2:Tehran Radar Sec 5 West
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_6_CTR:185:6
 ATIS2:Tehran Radar Sec 6
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_6E_CTR:170:6
 ATIS2:Tehran Radar Sec 6 East
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_6W_CTR:170:6
 ATIS2:Tehran Radar Sec 6 West
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:TEH_7_CTR:180:6
 ATIS2:Tehran Radar Sec 7
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIFM_APP:110:5
-ATIS2:Isfahan Radar
-ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS2:Isfahan Radar - DCL [OIFM]
+ATIS3:Covering the entire Isfahan TMA up to FL250 when local ATC offline
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIII_APP:110:5
-ATIS2:Mehrabad Radar
-ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS2:Mehrabad Radar - DCL [OIII]
+ATIS3:Covering the entire Tehran TMA up to FL270 when local ATC offline
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIMM_APP:110:5
-ATIS2:Mashhad Radar
-ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS2:Mashhad Radar - DCL [OIMM]
+ATIS3:Covering the entire Mashhad TMA up to FL250 when local ATC offline
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OISS_APP:110:5
-ATIS2:Shiraz Radar
+ATIS2:Shiraz Radar - DCL [OISS]
 ATIS3:Report Callsign, Altitude & Position on Initial Contact
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIIE_TWR:40:4
-ATIS2:IKA Tower
+ATIS2:IKA Tower - DCL [OIIE]
 ATIS3:Report Callsign & Position on initial Contact.
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIII_TWR:40:4
-ATIS2:Mehrabad Tower
+ATIS2:Mehrabad Tower - DCL [OIII]
 ATIS3:Report Callsign & Position on initial Contact.
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIFM_TWR:40:4
-ATIS2:Isfahan Tower
+ATIS2:Isfahan Tower - DCL [OIFM]
 ATIS3:Report Callsign & Position on initial Contact.
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIMM_TWR:40:4
-ATIS2:Mashhad Tower
+ATIS2:Mashhad Tower - DCL [OIMM]
 ATIS3:Report Callsign & Position on initial Contact.
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OISS_TWR:40:4
-ATIS2:Shiraz Tower
+ATIS2:Shiraz Tower - DCL [OISS]
 ATIS3:Report Callsign & Position on initial Contact.
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIIE_GND:20:3
-ATIS2:IKA Ground
+ATIS2:IKA Ground - DCL [OIIE]
 ATIS3:Report Callsign & Position on initial Contact.
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIII_GND:20:3
-ATIS2:Mehrabad Ground
+ATIS2:Mehrabad Ground - DCL [OIII]
 ATIS3:Report Callsign & Position on initial Contact.
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIFM_GND:20:3
-ATIS2:Isfahan Ground
+ATIS2:Isfahan Ground - DCL [OIFM]
 ATIS3:Report Callsign & Position on initial Contact.
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OIMM_GND:20:3
-ATIS2:Mashhad Ground
+ATIS2:Mashhad Ground - DCL [OIMM]
 ATIS3:Report Callsign & Position on initial Contact.
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:OISS_GND:20:3
-ATIS2:Shiraz Ground
+ATIS2:Shiraz Ground - DCL [OISS]
 ATIS3:Report Callsign & Position on initial Contact.
-ATIS4:Charts/Procedures & Sceneries @ vatir.ir
+ATIS4:Visit us @ vatir.ir - Feedback & inquiries @ helpdesk.vatir.ir
 PROFILE:<Initials>_OBS:90:0
 ATIS2:Iran vACC ATC Observer
 ATIS3:

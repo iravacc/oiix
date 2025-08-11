@@ -1,17 +1,10 @@
 [DCL]
-DCL:OIII:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OIIE:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OIMM:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OISS:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OIFM:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OIGG:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OITT:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OITR:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OITL:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OIKB:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OIBK:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OIAW:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
-DCL:OIZH:SID:<hour><min> <year2><month2><day> <adep2> PDC <number>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobt> ATIS <rmk> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_next>
+DCL:OIII:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB <cfl> SQUAWK <assr>. REPORT READY FOR PUSH <freq_next>
+DCL:OIIE:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB <cfl> SQUAWK <assr>. REPORT READY FOR PUSH <freq_next>
+DCL:OIMM:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB <cfl> SQUAWK <assr>. REPORT READY FOR PUSH <freq_next>
+DCL:OISS:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB <cfl> SQUAWK <assr>. REPORT READY FOR PUSH <freq_next>
+DCL:OIFM:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB <cfl> SQUAWK <assr>. REPORT READY FOR PUSH <freq_next>
+DCL:OITT:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB <cfl> SQUAWK <assr>. REPORT READY FOR PUSH <freq_next>
 
 [FREETEXT]
 FREETEXT:R:RADAR IDENTIFIED CONTINUE
@@ -29,7 +22,9 @@ FREETEXT:R:WHEN READY DESC TO FL200 BY PATAT
 FREETEXT:R:CPDLC SERVICE TERMINATED MONITOR FREQUENCY ON VOICE
 FREETEXT:NE:ROGER
 
-
-
 [STATIONS]
 LOGIN:OMAA:UAE:AE1
+LOGIN:TEHS:Tehran RDR:TCS
+LOGIN:TEHN:Tehran RDR:TCN
+LOGIN:TEHE:Tehran RDR:TCE
+LOGIN:TEHW:Tehran RDR:TCW

@@ -1,1 +1,3 @@
 Setup_COOPANS=1
+
+Window_CPDLC_Current=1,1500,100
